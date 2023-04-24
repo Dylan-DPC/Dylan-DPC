@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi I'm DPC!
 
-<!--
-**Dylan-DPC/Dylan-DPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* A Rust team member and leader of the WG-Triage working group
+* Co-maintainer of several crates including - MdBook, Uuid, Dotenvy
 
-Here are some ideas to get you started:
+## Current Projects
+* [Messloc](https://github.com/messloc/messloc) - An experimental allocator
+* The Forklift Project - A WIP project for listing and working on reverse dependencies of a project 
+* Maintaining forks of some outdated projects Maintaining forks of some outdated projects 
+* [name to be revealed] - A mocking library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open to
+* Porting libraries from other languages to rust
+* Mentoring beginners learning rust
